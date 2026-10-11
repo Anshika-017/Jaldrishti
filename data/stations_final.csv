@@ -1,0 +1,39 @@
+name,lat,lon,median_m,days,tier,note,source
+Alipur_4,28.799,77.137,9.325,425,reliable,,Delhi SW GW telemetry 2024-25
+Burari_2,28.756,77.196,4.63,434,reliable,,Delhi SW GW telemetry 2024-25
+Khera Kalan_1,28.771,77.112,12.675,426,reliable,,Delhi SW GW telemetry 2024-25
+Sannoth Lake,28.835,77.049,9.566,327,reliable,,Delhi SW GW telemetry 2024-25
+Singhola_2,28.845,77.121,17.922,427,caution,10 m p10-p90 range,Delhi SW GW telemetry 2024-25
+Tagore Garden_1,28.65757,77.120175,17.708,424,reliable,longitude recovered,Delhi SW GW telemetry 2024-25
+Daurala,28.510715,76.894526,25.2,709,reliable,,Delhi SW GW telemetry 2024-25
+Mundella Kalan,28.610835,76.894722,24.75,401,caution,near-flat readings,Delhi SW GW telemetry 2024-25
+Salahpur,28.516111,77.060838,25.6,399,caution,near-flat readings,Delhi SW GW telemetry 2024-25
+Bakoli Deep Pz,28.8153,77.1517,9.84,56,caution,short record (56 d),CGWB telemetry 2026 (Jan-Oct 7)
+Bawana DJB WTP_1,28.8233,77.0536,11.058,132,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+Burari OJB Ex. Eng Office,28.7332,77.1974,2.888,121,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+Coronation Pillar,28.7245,77.1925,1.718,72,caution,short record (72 d),CGWB telemetry 2026 (Jan-Oct 7)
+Daryapur Khurd_1,28.5342,76.9086,1.777,203,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+Kabulline Pz,28.5922,77.1275,29.277,204,caution,near-flat readings,CGWB telemetry 2026 (Jan-Oct 7)
+Kewal Park,28.7185,77.1812,3.019,105,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+Khera Kalan Pz_1,28.7694,77.1181,10.586,204,caution,near-flat readings; repeated identical value (24% of readings),CGWB telemetry 2026 (Jan-Oct 7)
+Lalita Park (Pz),28.6325,77.2717,5.515,204,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+LodhiGarden (Deep),28.5903,77.2164,4.0,171,caution,repeated identical value (22% of readings),CGWB telemetry 2026 (Jan-Oct 7)
+LodhiGarden(5hallow),28.5903,77.2164,3.772,135,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+Majara Dabas_1,28.7556,77.0058,1.709,101,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+Narela DJB WTP,28.836667,77.134444,17.336,44,caution,short record (44 d),CGWB telemetry 2026 (Jan-Oct 7)
+Nizampur_3,28.7194,76.9667,1.46,59,caution,short record (59 d),CGWB telemetry 2026 (Jan-Oct 7)
+PUSA (NRL) Pz,28.6392,77.1622,26.46,129,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+Rohini Sector 1Pz,28.7028,77.0981,2.887,152,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+"Rohini, Sector-23",28.7239,77.0711,1.527,38,caution,short record (38 d),CGWB telemetry 2026 (Jan-Oct 7)
+Sandesh Vihar Pz_1,28.695,77.1461,3.228,157,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+Sanjay Van Pz_1,28.6903,77.1419,1.664,156,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+Shikarpur Deep Pz,28.5244,76.9533,4.808,203,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+Shikarpur Shallow Pz,28.5247,76.9533,4.682,204,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+Sonia Vihar_1,28.7078,77.249,10.386,138,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+Sunder Nursery Pz,28.5961,77.245,4.126,92,caution,short record (92 d),CGWB telemetry 2026 (Jan-Oct 7)
+Tiggipur Deep Pz_1,28.8147,77.1972,6.932,163,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+Tiggipur Shallow Pz_1,28.8147,77.1975,6.096,182,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+Tikri Kalan Pz_1,28.6833,76.9694,6.528,83,caution,short record (83 d),CGWB telemetry 2026 (Jan-Oct 7)
+Ujwah Pz,28.5767,76.9142,7.717,148,reliable,,CGWB telemetry 2026 (Jan-Oct 7)
+gazipur crossing pz,28.628056,77.318056,43.537,130,caution,near-flat readings; repeated identical value (46% of readings),CGWB telemetry 2026 (Jan-Oct 7)
+vivek vihar(Pz)_1,28.670833,77.313056,24.843,204,reliable,,CGWB telemetry 2026 (Jan-Oct 7)

@@ -1,0 +1,382 @@
+[
+ {
+  "name": "Alipur_4",
+  "lat": 28.799,
+  "lon": 77.137,
+  "median_m": 9.325,
+  "days": 425,
+  "tier": "reliable",
+  "note": "",
+  "source": "Delhi SW GW telemetry 2024-25"
+ },
+ {
+  "name": "Burari_2",
+  "lat": 28.756,
+  "lon": 77.196,
+  "median_m": 4.63,
+  "days": 434,
+  "tier": "reliable",
+  "note": "",
+  "source": "Delhi SW GW telemetry 2024-25"
+ },
+ {
+  "name": "Khera Kalan_1",
+  "lat": 28.771,
+  "lon": 77.112,
+  "median_m": 12.675,
+  "days": 426,
+  "tier": "reliable",
+  "note": "",
+  "source": "Delhi SW GW telemetry 2024-25"
+ },
+ {
+  "name": "Sannoth Lake",
+  "lat": 28.835,
+  "lon": 77.049,
+  "median_m": 9.566,
+  "days": 327,
+  "tier": "reliable",
+  "note": "",
+  "source": "Delhi SW GW telemetry 2024-25"
+ },
+ {
+  "name": "Singhola_2",
+  "lat": 28.845,
+  "lon": 77.121,
+  "median_m": 17.922,
+  "days": 427,
+  "tier": "caution",
+  "note": "10 m p10-p90 range",
+  "source": "Delhi SW GW telemetry 2024-25"
+ },
+ {
+  "name": "Tagore Garden_1",
+  "lat": 28.65757,
+  "lon": 77.120175,
+  "median_m": 17.708,
+  "days": 424,
+  "tier": "reliable",
+  "note": "longitude recovered",
+  "source": "Delhi SW GW telemetry 2024-25"
+ },
+ {
+  "name": "Daurala",
+  "lat": 28.510715,
+  "lon": 76.894526,
+  "median_m": 25.2,
+  "days": 709,
+  "tier": "reliable",
+  "note": "",
+  "source": "Delhi SW GW telemetry 2024-25"
+ },
+ {
+  "name": "Mundella Kalan",
+  "lat": 28.610835,
+  "lon": 76.894722,
+  "median_m": 24.75,
+  "days": 401,
+  "tier": "caution",
+  "note": "near-flat readings",
+  "source": "Delhi SW GW telemetry 2024-25"
+ },
+ {
+  "name": "Salahpur",
+  "lat": 28.516111,
+  "lon": 77.060838,
+  "median_m": 25.6,
+  "days": 399,
+  "tier": "caution",
+  "note": "near-flat readings",
+  "source": "Delhi SW GW telemetry 2024-25"
+ },
+ {
+  "name": "Bakoli Deep Pz",
+  "lat": 28.8153,
+  "lon": 77.1517,
+  "median_m": 9.84,
+  "days": 56,
+  "tier": "caution",
+  "note": "short record (56 d)",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Bawana DJB WTP_1",
+  "lat": 28.8233,
+  "lon": 77.0536,
+  "median_m": 11.058,
+  "days": 132,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Burari OJB Ex. Eng Office",
+  "lat": 28.7332,
+  "lon": 77.1974,
+  "median_m": 2.888,
+  "days": 121,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Coronation Pillar",
+  "lat": 28.7245,
+  "lon": 77.1925,
+  "median_m": 1.718,
+  "days": 72,
+  "tier": "caution",
+  "note": "short record (72 d)",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Daryapur Khurd_1",
+  "lat": 28.5342,
+  "lon": 76.9086,
+  "median_m": 1.777,
+  "days": 203,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Kabulline Pz",
+  "lat": 28.5922,
+  "lon": 77.1275,
+  "median_m": 29.277,
+  "days": 204,
+  "tier": "caution",
+  "note": "near-flat readings",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Kewal Park",
+  "lat": 28.7185,
+  "lon": 77.1812,
+  "median_m": 3.019,
+  "days": 105,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Khera Kalan Pz_1",
+  "lat": 28.7694,
+  "lon": 77.1181,
+  "median_m": 10.586,
+  "days": 204,
+  "tier": "caution",
+  "note": "near-flat readings; repeated identical value (24% of readings)",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Lalita Park (Pz)",
+  "lat": 28.6325,
+  "lon": 77.2717,
+  "median_m": 5.515,
+  "days": 204,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "LodhiGarden (Deep)",
+  "lat": 28.5903,
+  "lon": 77.2164,
+  "median_m": 4.0,
+  "days": 171,
+  "tier": "caution",
+  "note": "repeated identical value (22% of readings)",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "LodhiGarden(5hallow)",
+  "lat": 28.5903,
+  "lon": 77.2164,
+  "median_m": 3.772,
+  "days": 135,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Majara Dabas_1",
+  "lat": 28.7556,
+  "lon": 77.0058,
+  "median_m": 1.709,
+  "days": 101,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Narela DJB WTP",
+  "lat": 28.836667,
+  "lon": 77.134444,
+  "median_m": 17.336,
+  "days": 44,
+  "tier": "caution",
+  "note": "short record (44 d)",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Nizampur_3",
+  "lat": 28.7194,
+  "lon": 76.9667,
+  "median_m": 1.46,
+  "days": 59,
+  "tier": "caution",
+  "note": "short record (59 d)",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "PUSA (NRL) Pz",
+  "lat": 28.6392,
+  "lon": 77.1622,
+  "median_m": 26.46,
+  "days": 129,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Rohini Sector 1Pz",
+  "lat": 28.7028,
+  "lon": 77.0981,
+  "median_m": 2.887,
+  "days": 152,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Rohini, Sector-23",
+  "lat": 28.7239,
+  "lon": 77.0711,
+  "median_m": 1.527,
+  "days": 38,
+  "tier": "caution",
+  "note": "short record (38 d)",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Sandesh Vihar Pz_1",
+  "lat": 28.695,
+  "lon": 77.1461,
+  "median_m": 3.228,
+  "days": 157,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Sanjay Van Pz_1",
+  "lat": 28.6903,
+  "lon": 77.1419,
+  "median_m": 1.664,
+  "days": 156,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Shikarpur Deep Pz",
+  "lat": 28.5244,
+  "lon": 76.9533,
+  "median_m": 4.808,
+  "days": 203,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Shikarpur Shallow Pz",
+  "lat": 28.5247,
+  "lon": 76.9533,
+  "median_m": 4.682,
+  "days": 204,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Sonia Vihar_1",
+  "lat": 28.7078,
+  "lon": 77.249,
+  "median_m": 10.386,
+  "days": 138,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Sunder Nursery Pz",
+  "lat": 28.5961,
+  "lon": 77.245,
+  "median_m": 4.126,
+  "days": 92,
+  "tier": "caution",
+  "note": "short record (92 d)",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Tiggipur Deep Pz_1",
+  "lat": 28.8147,
+  "lon": 77.1972,
+  "median_m": 6.932,
+  "days": 163,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Tiggipur Shallow Pz_1",
+  "lat": 28.8147,
+  "lon": 77.1975,
+  "median_m": 6.096,
+  "days": 182,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Tikri Kalan Pz_1",
+  "lat": 28.6833,
+  "lon": 76.9694,
+  "median_m": 6.528,
+  "days": 83,
+  "tier": "caution",
+  "note": "short record (83 d)",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "Ujwah Pz",
+  "lat": 28.5767,
+  "lon": 76.9142,
+  "median_m": 7.717,
+  "days": 148,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "gazipur crossing pz",
+  "lat": 28.628056,
+  "lon": 77.318056,
+  "median_m": 43.537,
+  "days": 130,
+  "tier": "caution",
+  "note": "near-flat readings; repeated identical value (46% of readings)",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ },
+ {
+  "name": "vivek vihar(Pz)_1",
+  "lat": 28.670833,
+  "lon": 77.313056,
+  "median_m": 24.843,
+  "days": 204,
+  "tier": "reliable",
+  "note": "",
+  "source": "CGWB telemetry 2026 (Jan-Oct 7)"
+ }
+]

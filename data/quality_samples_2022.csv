@@ -1,0 +1,96 @@
+lon,lat,name,pH,EC,Cl,NO3,F,flag,km_to_reliable,outside
+77.124,28.798,Alipur Garhi,8.46,3440.0,880.0,2.3,0.6,True,1.3,False
+77.267,28.496,Asola,8.54,769.0,135.0,19.0,0.42,False,11.6,True
+76.997,28.819,Auchandi Pz,8.81,7146.0,1028.0,16.0,1.3,True,5.4,True
+77.208,28.42,Balbir Nagar,8.4,382.0,36.0,6.0,0.26,False,19.0,True
+77.288,28.641,Bank Enclave,8.37,1070.0,163.0,25.0,0.36,False,1.9,False
+77.074,28.851,Bankner Pz,8.18,4075.0,993.0,27.0,0.24,True,3.0,False
+77.017,28.65,Baprola Dw,8.67,4054.0,879.0,212.0,0.52,True,9.9,True
+77.063,28.758,Barwala,7.82,9623.0,3124.0,49.0,0.07,True,5.0,True
+77.03,28.787,Bawana JE Store,8.83,1275.0,234.0,29.0,0.86,False,4.2,False
+77.199,28.632,Birla Mandir DW,8.53,773.0,92.0,1.6,0.38,False,3.7,False
+77.163,28.736,Bhalaswa Lake,8.26,5316.0,1605.0,2.6,0.36,True,2.6,False
+77.208,28.428,Bhatti Pz,8.71,545.0,64.0,13.0,0.38,False,18.1,True
+77.197,28.733,Burari DJB Ex Engg. Office,8.45,513.0,64.0,1.2,0.54,False,0.0,False
+77.236,28.656,Chandni Chowk,8.6,752.0,92.0,28.0,0.33,False,4.4,False
+77.009,28.546,Chhawala Pz,8.44,3126.0,866.0,8.0,0.17,True,5.9,True
+77.301,28.587,Chilla Regulator,8.62,758.0,142.0,8.0,0.25,False,5.8,True
+77.299,28.6,Chilla Saroda,8.58,1395.0,192.0,5.9,0.25,False,4.5,False
+77.111,28.603,Cvd Depot Cantt,8.63,958.0,163.0,56.0,0.3,True,6.1,True
+76.909,28.534,Daryapur Khurd,8.76,5752.0,1683.0,32.0,0.78,True,0.0,False
+76.965,28.543,Daulatpur Pz,8.47,3290.0,930.0,37.0,0.64,True,2.3,False
+77.051,28.567,Dwarka Sec 23 DDA Park,8.94,2770.0,540.0,21.0,2.6,True,10.6,True
+77.057,28.594,Dwarka Sec 5 DDA Park,8.61,1012.0,85.0,6.0,1.4,False,9.4,True
+77.156,28.477,Gadaipur Pz,8.74,909.0,99.0,91.0,0.94,True,13.9,True
+77.318,28.628,Gazipur Crossing,8.42,1494.0,114.0,71.0,0.42,True,4.6,False
+77.242,28.541,GK 2,8.37,474.0,64.0,22.0,1.1,False,6.0,True
+77.274,28.704,Gokulpuri EW,8.5,637.0,64.0,19.0,0.52,False,2.5,False
+77.292,28.642,Gujrat Vihar Pz,8.71,1012.0,149.0,26.0,0.9,False,2.2,False
+77.147,28.729,Haiderpur Pz,8.59,495.0,43.0,10.0,3.0,True,3.5,False
+77.008,28.832,Hareoli,8.92,3654.0,511.0,16.0,3.2,True,4.0,False
+77.202,28.545,Hauzpur Khas Pz,8.22,571.0,92.0,4.0,0.76,False,5.2,True
+76.994,28.682,Hiran Kudna,8.38,4811.0,1285.0,200.0,0.25,True,8.3,True
+77.181,28.801,Hiranki Village,8.77,1730.0,419.0,14.0,0.41,False,2.2,False
+77.251,28.595,India Gate,8.7,2911.0,447.0,190.0,0.63,True,3.4,False
+77.157,28.536,JNU Pz,8.78,1113.0,178.0,38.0,0.67,False,8.4,True
+77.223,28.74,Jagatpur Pz 2,8.57,568.0,85.0,1.0,0.63,False,2.6,False
+77.341,28.509,Jaitpur Khadar RD3500 Pz,8.86,984.0,170.0,1.0,0.24,False,15.2,True
+77.182,28.506,Jamali Kamali,8.22,2373.0,369.0,66.0,3.0,True,10.0,True
+77.091,28.63,Janakpuri,8.72,567.0,36.0,12.0,1.9,True,4.2,False
+77.15,28.468,Jaunapur DJB TW,8.7,1597.0,213.0,100.0,1.0,True,15.1,True
+76.967,28.753,Jaunti DW,8.6,2084.0,469.0,110.0,0.63,True,3.8,False
+77.189,28.409,Jheel Khoh,8.81,911.0,99.0,48.0,0.77,True,20.3,True
+76.905,28.536,Jhuljhuli Dw,8.61,982.0,149.0,2.4,2.2,True,0.4,False
+77.0,28.725,Kanjhawala,8.85,280.0,36.0,2.0,0.4,False,3.4,False
+77.234,28.664,Khela Ghat Bhela Road,8.53,716.0,107.0,31.0,0.46,False,5.1,True
+77.118,28.769,Khera Kalan Pz,8.73,1211.0,50.0,3.5,2.1,True,0.6,False
+77.322,28.611,Kondli DJB WTP,8.77,969.0,121.0,40.0,0.65,False,5.5,True
+77.272,28.633,Lalitha Park,8.65,1453.0,312.0,28.0,0.36,False,0.1,False
+77.216,28.59,Lodhi Garden,8.41,374.0,28.0,8.0,0.32,False,0.1,False
+77.175,28.604,Mahabir Vansth,8.44,1037.0,249.0,8.0,0.58,False,4.1,False
+77.006,28.756,Majara Dabas,8.43,2921.0,639.0,241.0,0.53,True,0.0,False
+77.228,28.696,Majnu Ka Tila DW,8.66,1178.0,99.0,80.0,1.7,True,2.4,False
+77.079,28.69,Mangolpur,8.7,637.0,99.0,2.0,1.1,False,2.3,False
+77.111,28.619,Mayapuri,8.58,1459.0,163.0,28.0,0.8,False,4.4,False
+77.304,28.616,Mayur Vihar B Block Ph II,8.61,974.0,114.0,11.0,0.43,False,3.7,False
+76.893,28.606,Mundela Kalan Pz,8.92,3642.0,291.0,240.0,1.2,True,3.9,False
+77.001,28.615,Najafgarh Town,8.37,4229.0,443.0,290.0,0.82,True,9.5,True
+77.273,28.594,Nangli Rajapur,8.71,1316.0,362.0,11.0,0.76,False,4.3,False
+77.134,28.837,Narela DJB WTP,8.79,2136.0,263.0,110.0,0.51,True,4.2,False
+76.964,28.72,Nizampur,8.95,1226.0,99.0,90.0,4.2,True,5.7,True
+77.266,28.605,Nizamuddin Bridge,8.69,807.0,142.0,64.0,0.72,True,3.1,False
+77.273,28.564,Okhla DJB WTP,8.7,1356.0,213.0,18.0,0.69,False,6.3,True
+77.204,28.823,Palla Temple,8.73,579.0,71.0,26.0,1.0,False,1.1,False
+77.095,28.678,Peeragarhi TW,8.21,1087.0,227.0,22.0,1.1,False,2.8,False
+77.093,28.676,Peeragarhi DW,8.56,2136.0,320.0,28.0,1.2,False,3.0,False
+77.162,28.639,PUSA (NRL),8.7,1670.0,405.0,25.0,1.0,False,0.0,False
+77.227,28.528,Pusp Vihar,8.7,883.0,43.0,9.0,0.79,False,7.0,True
+77.033,28.842,Qatlupur,8.39,410.0,36.0,11.0,0.47,False,1.7,False
+76.965,28.806,Qutubgarh,8.45,948.0,50.0,12.0,1.4,False,6.9,True
+77.025,28.707,Rani Khera DW,8.38,3766.0,1050.0,195.0,0.4,True,5.7,True
+76.904,28.518,Raota,8.47,4340.0,888.0,220.0,0.63,True,1.2,False
+77.102,28.715,Rithala Pz Sec5 Rohini,8.41,297.0,28.0,5.0,0.44,False,1.4,False
+77.104,28.732,Rohini Sec 11 Pz,8.92,645.0,50.0,7.0,3.7,True,3.3,False
+77.071,28.724,Rohini Sector 23,8.9,2759.0,412.0,240.0,4.6,True,3.5,False
+77.095,28.753,Rohini Sector 28,8.68,1938.0,263.0,140.0,2.7,True,2.6,False
+77.213,28.59,Safdarjung tomb,8.39,1804.0,547.0,90.0,0.41,True,0.3,False
+77.122,28.691,Sainik Vihar,8.66,2889.0,774.0,120.0,3.3,True,1.9,False
+77.146,28.695,Sandesh Vihar,8.21,8679.0,2563.0,180.0,0.74,True,0.0,False
+77.142,28.69,Sanjay Van,8.61,1320.0,284.0,0.0,2.3,True,0.0,False
+77.098,28.703,Sector 1 Rohini,8.37,264.0,21.0,2.0,0.54,False,0.0,False
+77.262,28.676,Shastri Park,8.55,788.0,121.0,2.0,0.58,False,3.8,False
+77.108,28.578,Shekhwati Line,8.63,716.0,107.0,4.0,0.5,False,8.6,True
+76.953,28.524,Shikarpur Deep,8.17,7249.0,1588.0,150.0,0.62,True,0.1,False
+77.129,28.843,Singhola,8.24,3826.0,809.0,180.0,0.45,True,5.0,False
+77.131,28.853,Singhu Village,8.22,5095.0,1207.0,220.0,0.47,True,6.0,True
+77.036,28.765,Sultanpur Dabas,8.76,3210.0,814.0,120.0,1.5,True,3.1,False
+77.146,28.489,Sultanpur IMS,8.94,643.0,36.0,1.0,0.68,False,13.2,True
+77.245,28.596,Sunder Nursery,8.77,2070.0,327.0,14.0,1.1,False,2.9,False
+76.934,28.601,Surheda,8.61,3445.0,717.0,29.0,1.4,True,3.3,False
+77.113,28.644,Tagore Garden,8.18,7417.0,929.0,260.0,0.55,True,1.7,False
+77.197,28.815,Tiggipur,8.67,749.0,92.0,4.0,0.94,False,0.0,False
+76.914,28.577,Ujwah Pz,8.76,4562.0,1221.0,110.0,0.9,True,0.0,False
+77.249,28.685,Ushmanpur,8.7,450.0,21.0,2.0,0.72,False,2.5,False
+77.074,28.632,Vikashpuri,8.88,1134.0,149.0,10.0,2.5,True,5.3,True
+77.313,28.671,Vivek Vihar,8.49,2375.0,540.0,90.0,0.82,True,0.0,False
+77.152,28.815,Bakoli,8.41,4697.0,1193.0,170.0,0.51,True,2.3,False
